@@ -1,0 +1,32 @@
+﻿  CSC326 Project Task2.cpp
+C:\Users\Leon6\source\repos\CSC326 Project Task2\CSC326 Project Task2\CSC326 Project Task2.cpp(69,32): warning C4244: '+=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Leon6\source\repos\CSC326 Project Task2\CSC326 Project Task2\CSC326 Project Task2.cpp(201,33): warning C4244: '+=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Leon6\source\repos\CSC326 Project Task2\CSC326 Project Task2\CSC326 Project Task2.cpp(272,33): warning C4244: '+=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Leon6\source\repos\CSC326 Project Task2\CSC326 Project Task2\CSC326 Project Task2.cpp(362,42): warning C4244: '+=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Leon6\source\repos\CSC326 Project Task2\CSC326 Project Task2\CSC326 Project Task2.cpp(390,42): warning C4244: '+=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Leon6\source\repos\CSC326 Project Task2\CSC326 Project Task2\CSC326 Project Task2.cpp(419,42): warning C4244: '+=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  CSC326 Project Task2.vcxproj -> C:\Users\Leon6\source\repos\CSC326 Project Task2\x64\Debug\CSC326 Project Task2.exe
